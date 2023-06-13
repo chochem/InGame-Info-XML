@@ -8,5 +8,5 @@ dependencies {
     compileOnly('curse.maven:cofh-lib-220333:2388748')
     compileOnly('curse.maven:simply-jetpacks-79325:2267185')
     compileOnly('curse.maven:tfcraft-302973:2627990')
-	compileOnly(project.files("libs/gregtech-5.09.43.86-localbeta2-dev.jar"))
+	compileOnly(project.files("libs/gregtech-5.09.43.86-localbeta4-dev.jar"))
 }
